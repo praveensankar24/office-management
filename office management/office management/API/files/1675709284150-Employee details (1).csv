@@ -1,0 +1,57 @@
+id,Name,Father_Name,Date_of_Join,M2_Permenant_Date,Date_of_Resignation,Date_of_Birth,Mobile_NO,gender,Postal_Address,Name_of_Nominee,Salary,LOP,Designation,Aadhar_No,PAN,Bank_AC_Number,IFSC_code,Emp_status,Company_Name
+1,M.Maheswari,Manokaran,03-01-2010,12/19/2019,NA,09-03-1984,9884130991,female,"C/o, Kaliyaperumal
+No.14A, Narayani Illam, Kalidasan Street,
+Ullagaram, Kanchipuram, Madipakkam
+Chennai - 600091",Kaliyaperumal S,35000,,Director,5.33E+11,"AXZPM4463F
+",805206087,IDIB000P193,On Roll,M2-Data Studio
+2,A.Malathi,Arumugam,06-10-2015,12/19/2019,NA,20-Jun-88,9500174756,female,"New No.2, Old No.28, Kuppuswamy Street,
+Vetri Nagar,
+Chennai 600082",Vasanth Kumar B,35000,1,Director,2.62E+11, DEFPM5063F,5.55E+14,LAVB0000555,On Roll,M2-Data Studio
+3,KARTHIK J,R.Jayaraj,01-06-2017,02-03-2020,NA,26-Jul-84,8939062747,male,"No. 174/109, 
+Canal bank road , Kasthuri bai nagar, 
+Adyar, Chennai-600020",M.KAVIPRIYA,50000,2,Sr. Data Analyst,5618 6065 9434, AXTPK7744H,4.00E+11,ICIC0003995,On Roll,M2-Data Studio
+4,C.DHIVYA BHARATHI,K.CHINNA DURAI,01-09-2019,01-02-2020,NA,05-Apr-93,9025312077,female,"NO.18, 4th MAIN ROAD, 
+HINDU COLONY,
+PUZHUTHIVAKKAM,
+CHENNAI-600091",Satish K,29000,5,Software Engineer,5163 1212 7022, BTHPD9831P,6031348562,IDIB000V003,Resigned,M2-Data Studio
+5,M.KAVIPRIYA,K.Manoharan,02-04-2019,02-03-2020,NA,18-May-91,9384649199,female,"No. 174/109, 
+Canal bank road , Kasthuri bai nagar, 
+Adyar, Chennai-600020",J.karthik,29000,3,Software Engineer,6.06E+11, HTMPK1333N,4.00E+11,ICIC0003995,On Roll,M2-Data Studio
+6,SARANYA M,Manoharan. K,03-08-2019,11-02-2020,NA,29-Oct-85,9092040885,female,"51/F3 Jagdev Apts 1st flr, Old state bank colony 2nd st, 
+West Tambaram, 
+Chennai-45",Ganesan. G,29000,0,Data Analyst,2940 0759 4476, CIIPS4234G,1.90E+11,ICIC0001898,Resigned,M2-Data Studio
+7,GOKULAKANNAN A,Alagar Ramanujam G,06-05-2019,11-02-2020,NA,16-Feb-95,7708161685,male,"Permanent address: 1/225/6, Balaji nagar, Kooraikundu, Virudhunagar, Tamilnadu - 626003
+
+Communication address: 1/226 - 5A2, 2nd street, CO Colony, Collectorate(opposite), Kooraikundu, Virudhunagar - 626002",Kowsalya devi S,21000,,Software Engineer,3055 3077 5027,DETPG9661H,32347886858,SBIN0000951,Resigned,M2-Data Studio
+8,GOPINATH S,S. Subramani,09-02-2019,03-01-2021,NA,29-Mar-84,9551084445,male,"9/7, Loganatha Nagar 3rd street, Choolaimedu, Chennai – 600 094",G. Santhalakshmi,29000,,Software Engineer,4176 2298 6050,AQUPG7231P,04-6300-3000-6262,KKBK0000469,Resigned,M2-Data Studio
+9,VINOTHKUMAR M,Muruganandham. G,02-03-2020,11-02-2020,NA,25-Sep-97,9585694546,male,2/99 East street chandrasekarapuram(po) valangaiman 612804 thiruvarur(dis),Muruganandham. G,15000,,Software Engineer,9426 2964 9242, BTBPV7181G,38487137291,SBIN0018178,Resigned,M2-Data Studio
+10,SUGANYA H,S.Harikrishnan,10-07-2019,01-Apr-21,NA,07-Jul-91,9962790172,female,"C/o.Ragavan, 3/333, Vallalar Street
+MA Nagar, Redhills, Tiruvallur,
+Tamil Nadu - 600052",B.Ragavan,21000,,Software Engineer,7.13E+11,EZAPS5178a,3.26E+12,CNBR0003261,On Roll,M2-Data Studio
+11,BALAJI G,Gnanasambandam,10-07-2019,03-May-21,NA,03-Feb-81,9629737470,male,"S/o: Gnanasambandam, 
+373/1/200, Bank Nagar, Puthuvasur,
+Alamelumangapuram, Vellore,
+Tamil Nadu - 632009",D. Padmavathy,35000,0,Data Analyst,3.84E+11,AOGPB3608B,1.87E+13,HDFC0001038,Resigned,M2-Data Studio
+12,GEETHA BHARATHI V S,Srinivasa Raghavan,11/25/2019,03-May-21,NA,21-Apr-91,8072903687,female,"D/O: Srinivasa Raghavan,2 , F1,
+Rangasamy Street, Golden George Nagar,
+Mogappair East, Chennai - 600037",V.Srinivasa Raghavan,29000,0,Data Analyst,4.79E+11,AXHPG6926H,5.00E+14,CIUB0000349,Resigned,M2-Data Studio
+13,KABILAN K,Kannan,11/25/2019,03-May-21,NA,01-Dec-93,8489560543,male,"13/39 A, Chennappar street, Tiruvannamalai - 606601",Jayashree S,29000,0,Data Analyst,5.21E+11,GEFPK8870H,612937528,IDIB000T111,Resigned,M2-Data Studio
+14,SHARMILA,Baskaran,01-02-2020,01-Jun-21,NA,14-Nov-94,7338772838,female,"C68 5th cross street,kurinji nagar, 
+Ramapuram, Chennai 600089",Jagan.K,21000,0,Software Engineer,8.66E+11, GDGPS0775D,5.01E+13,HDFC0004104,Resigned,M2-Data Studio
+15,ABIRAMI,P.kaliyaperumal.,02-01-2021,01-Jul-21,NA,30-Apr-94,9842311593,female,"No.20 Zams Palm Avenue,
+1A/2 Vimala Cottage,
+Alagiri Nagar, 6th street,
+Vadapalani.Chennai 600026",D.Selvaprabhu,21000,0,Data Analyst,5.85E+11, BJZPA4068D,1.49E+14,IOBA0001492,Resigned,M2-Data Studio
+16,GEETHA PRIYA. L,V. Lakshmanan,01-02-2020,01-Jun-21,NA,06-Jun-88,9566092305,female,"No: B/8 Second floor S2, Second Cross Street,
+Kurinji Nagar , Ramapuram, Chennai -89",B. Vijay,21000,0,Data Analyst,7.19E+11, BIUPG6490H,6245416712,KKBK0000472,Resigned,M2-Data Studio
+17,SIVA SHANKAR J,Jayaraj,02-01-2021,01-Jul-21,NA,27-Jun-86,9884559949,male,"New no 174,Old no 109, Canal Bank Road, 
+Kasturi Bai Nagar , Adyar Chennai -600020",Gowthami J,29000,0,Data Analyst,7.91E+11, ELSPS4625E,2.65E+12,CNRB0002648,On Roll,M2-Data Studio
+18,GANESAN C,Chellappa,,,,28-07-1974,9941112812,male,"14A,Nangu Theruvar Thoppu  ,2nd cross Street,Pillaiyarpalayam,Kanchipuram Pin-631502",V.Padmavathi,35000,0,,8.78E+11,AKIPG7440A,AKIPG7440A,IDIBK0189,On Roll,M2-Data Studio
+19,Terence Manuel Faria,Mr. Ossy Faria,,,,22-04-1978,9176011733,male,"AS-3 Cherry Blossom Phase 2, Padavetamman Koil Street, Melayanambakkam, Chennai-600095",Radha Faria,35000,0,,3367 9120 9745,AEYPT2488P,9.13E+14,UTIB0000014,On Roll,M2-Data Studio
+20,PRABHU N,S.Nagendran,,,,22-12-1997,7449111877,male,"48, Kathbada main road, old washermenpet, Chennai 600021.",S.Nagendran,18000,0,,5457 1126 1322,GQJPP6082A,32468506686,SBIN0011603,Resigned,M2-Data Studio
+21,PRASAN KUMAR K,Kumaraguru,,,,7/31/2000,8248211581,male,"2/289,Main Road , Edaiyiruppu,Papanasam(tk),Thanjavur(dt)-614302",Kumaraguru,18000,0,,9.25E+11,HUMPK7646P,3.41E+14,UBIN0534102,Resigned,M2-Data Studio
+22,MAHALAKSHMI I,O.IYYAPPAN,,,,18.09.1997,7904280171,female,"16,Agriculture Bank Street,Panagudi-627109.Tirunelveli dist",O.IYYAPPAN,18000,0,,5339 3472 3588,AOBPI5636P,32098190001,SBIN0014360,On Roll,M2-Data Studio
+23,Prabhakaran P,Pulidevan K,,,,4/16/1997,9361043839,male,"6/139, Mela street, singankulam, Asesham, mannargudi, Thiruvarur(Dr) ,614016",Kaliyaperumal,18000,0,,4243 8802 9869,,10073647368,IDFB0080105,On Roll,M2-Data Studio
+24,INIYAVEL S,Sugumar,,,,05-04-1993,7358412963,male,"G-1, Vasudharani Apts, 6, Kamarajar St, Meenambakkam, Chennai - 600027",Sugumar,18000,0,,3.65E+11,GETPS7307B,5.00E+14,CIUB0000104,On Roll,M2-Data Studio
+25,SARAVANAN P,Paramasivam.A,,,,9/22/2000,8870975766,male,"19.Aladi Pillaiyar Kovil Street, Kancheepuram-631501",Paramasivam.A,18000,0,,2.04E+11,KUMPS8959E,7.19E+13,YESB0000718,On Roll,M2-Data Studio
+,,,,,,,,,,,,,,,,,,,
